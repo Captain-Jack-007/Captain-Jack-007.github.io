@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.62943859.css",
+    "main.js": "/static/js/main.ee47ed46.js",
+    "static/media/logo-flag.png": "/static/media/logo-flag.ec12a32453cef8841bcf.png",
+    "static/media/seagull.jpg": "/static/media/seagull.670838c1580fe45c6c92.jpg",
+    "static/media/champion.jpg": "/static/media/champion.f6985c76b03e117a2d43.jpg",
+    "static/media/pic1.jpg": "/static/media/pic1.c35a1ec59000a15938e4.jpg",
+    "static/media/pic2.jpg": "/static/media/pic2.37d34648aebe7fce265d.jpg",
+    "static/media/e2.jpg": "/static/media/e2.8b055fa6c11adab7fd9d.jpg",
+    "static/media/logo-hlb.png": "/static/media/logo-hlb.854222b5c42d5142bd66.png",
+    "index.html": "/index.html",
+    "main.62943859.css.map": "/static/css/main.62943859.css.map",
+    "main.ee47ed46.js.map": "/static/js/main.ee47ed46.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.62943859.css",
+    "static/js/main.ee47ed46.js"
+  ]
+}
