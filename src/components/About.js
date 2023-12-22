@@ -40,7 +40,7 @@ function About() {
               muhim rol o'ynaydi, O'zbekistonning aqlli iste'molchilariga
               zamonaviy, ekologik toza haydash tajribasini taqdim etadi.
             </p>
-            <a href="#home" className="btn">
+            <a href="#asosiy" className="btn">
               Asosiy
             </a>
           </article>

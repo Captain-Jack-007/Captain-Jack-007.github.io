@@ -5,7 +5,7 @@ import Title from './Title';
 function Services() {
   return (
     <>
-      <section className="section services" id="services">
+      <section className="section services" id="payments">
         <Title title="To'lov" subTitle="Turlari" />
         <div className="section-center services-center">
           {PaymentLink.map((link) => {

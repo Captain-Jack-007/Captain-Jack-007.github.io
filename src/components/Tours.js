@@ -5,7 +5,7 @@ import Title from './Title';
 function Tours() {
   return (
     <>
-      <section className="section" id="tours">
+      <section className="section" id="mashinalar">
         <Title title="Ommabop" subTitle="Elektromobillar" />
 
         <div className="section-center featured-center">

@@ -36,7 +36,7 @@ function Footer() {
         </ul>
         <p className="copyright">
           copyright &copy; HLB Motors
-          <span id="date"></span> Barcha huquqlar himoyalangan.
+          <span id="date"></span> Barcha huquqlar ximoyalangan.
         </p>
       </footer>
     </>

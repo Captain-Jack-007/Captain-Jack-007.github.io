@@ -4,7 +4,7 @@ import e2 from './images/e2.jpg';
 export const PageLinks = [
   {
     id: 1,
-    href: '#home',
+    href: '#asosiy',
     text: 'Asosiy',
   },
   {
@@ -14,12 +14,12 @@ export const PageLinks = [
   },
   {
     id: 3,
-    href: '#services',
+    href: '#payments',
     text: "To'lov turlari",
   },
   {
     id: 4,
-    href: '#tours',
+    href: '#mashinalar',
     text: 'Elektromobillar',
   },
 ];

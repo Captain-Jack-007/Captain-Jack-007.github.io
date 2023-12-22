@@ -3,7 +3,7 @@ import React from 'react';
 function Hero() {
   return (
     <>
-      <section className="hero" id="home">
+      <section className="hero" id="asosiy">
         <div className="hero-banner">
           <h1>Elektromobillar makoni</h1>
           <p>
