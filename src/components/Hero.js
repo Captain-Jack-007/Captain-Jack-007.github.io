@@ -10,7 +10,7 @@ function Hero() {
             Yo'l mashaqqatlaridan sizni xalos etuvchi haqiqiy shedevr
             avtomobilga ega bo'ling.
           </p>
-          <a href="#tours" className="btn hero-btn">
+          <a href="#mashinalar" className="btn hero-btn">
             Tanishish
           </a>
         </div>
