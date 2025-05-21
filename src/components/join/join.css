@@ -1,0 +1,50 @@
+.download-button {
+  display: inline-block;
+}
+.joinus-container {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 4rem 1.5rem;
+  text-align: center;
+}
+
+.joinus-business h2,
+.joinus-download h2 {
+  font-size: 2rem;
+  margin-bottom: 1rem;
+}
+
+.highlight {
+  font-weight: 700;
+  color: #000;
+}
+
+.joinus-business p {
+  font-size: 1.125rem;
+  color: #4a5568;
+  max-width: 700px;
+  margin: 0 auto;
+}
+
+.divider {
+  margin: 4rem 0;
+  border: none;
+  height: 1px;
+  background-color: #e2e8f0;
+}
+
+.joinus-app {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1.5rem;
+}
+
+.store-badge {
+  height: 45px;
+}
+
+.qr-code {
+  width: 160px;
+  height: auto;
+}
