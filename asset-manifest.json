@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.bc38282d.css",
+    "main.js": "/static/js/main.22263dd6.js",
+    "static/media/Component 157.png": "/static/media/Component 157.b14ae9f0494571a61e27.png",
+    "static/media/daisy.png": "/static/media/daisy.6bee0eb28c6f5ae6ea40.png",
+    "static/media/ch.png": "/static/media/ch.67b6eb471a87da695ff3.png",
+    "static/media/jake.png": "/static/media/jake.cff11642d49ec4430807.png",
+    "static/media/aziza.png": "/static/media/aziza.c982b7d1d92e61a2fe29.png",
+    "static/media/aleksey.png": "/static/media/aleksey.4291be019e5a0902d3c3.png",
+    "static/media/1a.svg": "/static/media/1a.a733108ce4eea91275db885d2900b613.svg",
+    "static/media/1cc.svg": "/static/media/1cc.a0a9caa755d01c71f27e9fef99847dcd.svg",
+    "static/media/1b.svg": "/static/media/1b.fc797c6e9e693035329024528b872f2d.svg",
+    "static/media/1d.svg": "/static/media/1d.bb2d63774868e376a52dc859fe335050.svg",
+    "static/media/Component 206.svg": "/static/media/Component 206.2181bad60c473645a420d293290ac3eb.svg",
+    "static/media/expats.svg": "/static/media/expats.f4294fcd1933859017535f1741134c8b.svg",
+    "static/media/expertize.svg": "/static/media/expertize.fcaa74240f621475f231145386f2d498.svg",
+    "static/media/event.svg": "/static/media/event.55d5135eae912d65c773d0427db3eb74.svg",
+    "static/media/jobs.svg": "/static/media/jobs.295fbd6c0b77d93a6d0766f2bd295c1a.svg",
+    "static/media/Globance-logo.svg": "/static/media/Globance-logo.7c6a73a7447a8c52972c9e176a0db6ee.svg",
+    "index.html": "/index.html",
+    "main.bc38282d.css.map": "/static/css/main.bc38282d.css.map",
+    "main.22263dd6.js.map": "/static/js/main.22263dd6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bc38282d.css",
+    "static/js/main.22263dd6.js"
+  ]
+}
